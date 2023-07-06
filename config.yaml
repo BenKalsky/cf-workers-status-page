@@ -1,6 +1,6 @@
 settings:
   title: 'Status Page'
-  url: 'https://status-page.digitizer.link' # used for Slack messages
+  url: 'https://webs.digitizer.link' # used for Slack messages
   logo: logo-192x192.png # image in ./public/ folder
   daysInHistogram: 90 # number of days you want to display in histogram
   collectResponseTimes: true # collects avg response times from CRON locations
@@ -30,12 +30,19 @@ monitors:
     url: 'https://www.hempishop.co.il'
     # method: GET
     # expectStatus: 200
-    linkable: false # allows the title to be a link, default=true
+    # linkable: false # allows the title to be a link, default=true
 
   - id: maxdrawz
     name: maxdrawz.com
     url: 'https://maxdrawz.com'
     # method: GET
     # expectStatus: 200
-    linkable: false 
+    # linkable: false 
 
+  - id: thecryptotips
+    name: thecrypto.tips
+    url: 'https://www.thecrypto.tips'
+
+  # - id: 
+  #   name: 
+  #   url: 
