@@ -15,29 +15,26 @@ settings:
   dayInHistogramNotOperational: ' incident(s)' # xx incident(s) recorded
 
 monitors:
-  - id: digitizer # unique identifier
-    name: digitizer.co.il
+  # - id: digitizer # unique identifier
+    # name: digitizer.co.il
     # description: 'https://www.digitizer.co.il' # default=empty
-    url: 'https://www.digitizer.co.il' # URL to fetch
+    # url: 'https://www.digitizer.co.il' # URL to fetch
     # method: GET # default=GET
     # expectStatus: 200 # operational status, default=200
     # followRedirect: false # should fetch follow redirects, default=false
     # linkable: false # allows the title to be a link, default=true
+    
+  - id: digitizer
+    name: digitizer.co.il
+    url: 'https://www.digitizer.co.il'
 
   - id: hempishop
     name: hempishop.co.il
-    # description: 'https://www.hempishop.co.il'
     url: 'https://www.hempishop.co.il'
-    # method: GET
-    # expectStatus: 200
-    # linkable: false # allows the title to be a link, default=true
 
   - id: maxdrawz
     name: maxdrawz.com
     url: 'https://maxdrawz.com'
-    # method: GET
-    # expectStatus: 200
-    # linkable: false 
 
   - id: thecryptotips
     name: thecrypto.tips
@@ -54,3 +51,119 @@ monitors:
   - id: benkalsky
     name: benkalsky.co.il
     url: 'https://www.benkalsky.co.il'
+
+  - id: benkalskycom
+    name: benkalsky.com
+    url: 'https://www.benkalsky.com'
+
+  - id: shanita
+    name: shanita.co.il
+    url: 'https://shanita.co.il'
+
+  - id: cryptomagic
+    name: cryptomagic.co.il
+    url: 'https://www.cryptomagic.co.il'
+
+  - id: marinagurovich
+    name: marinagurovich.com
+    url: 'https://www.marinagurovich.com'
+    
+  - id: neolith-shop
+    name: neolith-shop.co.il
+    url: 'https://www.neolith-shop.co.il' 
+    
+  - id: gilformats
+    name: gilformats.com
+    url: 'https://gilformats.com'
+    
+  - id: gilp
+    name: gilp.co.il
+    url: 'https://gilp.co.il'
+
+  - id: biuvit
+    name: biuvit.org
+    url: 'https://www.biuvit.org'
+
+  - id: geometryc
+    name: geometryc.com
+    url: 'https://www.geometryc.com'
+
+  - id: iyengar-yoga
+    name: iyengar-yoga.org.il
+    url: 'https://www.iyengar-yoga.org.il'
+
+  - id: creio
+    name: creio.co.il
+    url: 'https://creio.co.il'
+
+  - id: bg-house
+    name: bg-house.org
+    url: 'https://www.bg-house.org'
+
+  - id: s-schwartz
+    name: s-schwartz.co.il
+    url: 'https://s-schwartz.co.il'
+
+  - id: s-schwartz-com
+    name: s-schwartz.com
+    url: 'https://s-schwartz.com'
+
+  - id: digitizer-link
+    name: digitizer.link
+    url: 'https://digitizer.link'
+
+  - id: digitizer-market
+    name: digitizer.market
+    url: 'https://www.digitizer.market'
+
+  - id: aladdinorientalrug
+    name: aladdinorientalrug.com
+    url: 'https://www.aladdinorientalrug.com'
+
+  - id: wame-app
+    name: wame.app
+    url: 'https://www.wame.app'
+
+  - id: checkmate
+    name: checkmate.ai
+    url: 'https://checkmate.ai'
+
+  - id: sharons-boutique
+    name: sharons-boutique.co.il
+    url: 'https://sharons-boutique.co.il'
+
+  - id: five-luxe
+    name: five.luxe
+    url: 'https://www.five.luxe'
+
+  - id: cofi
+    name: cofi.co.il
+    url: 'https://www.cofi.co.il'
+
+  - id: cryptocafe
+    name: cryptocafe.co.il
+    url: 'https://www.cryptocafe.co.il'
+
+  - id: water-damage-nj
+    name: water-damage-nj.com
+    url: 'https://www.water-damage-nj.com'
+
+  - id: webify-studio
+    name: webify.studio
+    url: 'https://www.webify.studio'
+
+  - id: wpmultipack
+    name: wpmultipack.com
+    url: 'https://www.wpmultipack.com'
+
+  - id: dronez
+    name: dronez.co.il
+    url: 'https://www.dronez.co.il'
+
+  - id: njsteamer
+    name: njsteamer.com
+    url: 'https://www.njsteamer.com'
+
+  - id: coloredbuildings
+    name: coloredbuildings.co.il
+    url: 'https://coloredbuildings.co.il'
