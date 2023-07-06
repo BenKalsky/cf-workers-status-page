@@ -17,25 +17,25 @@ settings:
 monitors:
   - id: digitizer # unique identifier
     name: digitizer.co.il
-    description: 'https://www.digitizer.co.il' # default=empty
+    # description: 'https://www.digitizer.co.il' # default=empty
     url: 'https://www.digitizer.co.il' # URL to fetch
-    method: GET # default=GET
-    expectStatus: 200 # operational status, default=200
-    followRedirect: false # should fetch follow redirects, default=false
-    linkable: false # allows the title to be a link, default=true
+    # method: GET # default=GET
+    # expectStatus: 200 # operational status, default=200
+    # followRedirect: false # should fetch follow redirects, default=false
+    # linkable: false # allows the title to be a link, default=true
 
   - id: hempishop
     name: hempishop.co.il
-    description: 'https://www.hempishop.co.il'
+    # description: 'https://www.hempishop.co.il'
     url: 'https://www.hempishop.co.il'
-    method: GET
-    expectStatus: 200
+    # method: GET
+    # expectStatus: 200
     linkable: false # allows the title to be a link, default=true
 
   - id: maxdrawz
     name: maxdrawz.com
     url: 'https://maxdrawz.com'
-    method: GET
-    expectStatus: 200
+    # method: GET
+    # expectStatus: 200
     linkable: false 
 
