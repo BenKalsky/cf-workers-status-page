@@ -54,7 +54,7 @@ monitors:
 
   - id: benkalskycom
     name: benkalsky.com
-    url: 'https://www.benkalsky.com'
+    url: 'https://benkalsky.com'
 
   - id: shanita
     name: shanita.co.il
@@ -90,7 +90,7 @@ monitors:
 
   - id: iyengar-yoga
     name: iyengar-yoga.org.il
-    url: 'https://www.iyengar-yoga.org.il'
+    url: 'https://iyengar-yoga.org.il'
 
   - id: creio
     name: creio.co.il
@@ -111,6 +111,7 @@ monitors:
   - id: digitizer-link
     name: digitizer.link
     url: 'https://digitizer.link'
+    followRedirect: true 
 
   - id: digitizer-market
     name: digitizer.market
