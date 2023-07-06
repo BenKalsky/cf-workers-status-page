@@ -43,6 +43,11 @@ monitors:
     name: thecrypto.tips
     url: 'https://www.thecrypto.tips'
 
-  # - id: 
-  #   name: 
-  #   url: 
+  - id: langos
+    name: langos.co.il
+    url: 'https://www.langos.co.il'
+
+  - id: time-machine
+    name: time-machine.co.il
+    url: 'https://www.time-machine.co.il'
+    
