@@ -50,4 +50,7 @@ monitors:
   - id: time-machine
     name: time-machine.co.il
     url: 'https://www.time-machine.co.il'
-    
+
+  - id: benkalsky
+    name: benkalsky.co.il
+    url: 'https://www.benkalsky.co.il'
