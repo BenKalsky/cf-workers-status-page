@@ -68,10 +68,16 @@
 }
 
 /* Custom CSS */
-h1.ml-4.text-3xl {
+html, body {
+  overflow-x: hidden;
+}
+.p-4 {
+  padding: 1rem 0;
+}
+.ml-4 {
   font-size: 1.6rem;
 }
-.flex.flex-row.justify-between.mt-4.text-sm {
+.mt-4 {
   margin-bottom: 1rem;
   justify-content: center;
 }
