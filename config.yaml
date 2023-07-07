@@ -2,7 +2,7 @@ settings:
   title: 'Digitizer Status Page'
   url: 'https://webs.digitizer.link' # used for Slack messages
   logo: logo-192x192.png # image in ./public/ folder
-  daysInHistogram: 7 # number of days you want to display in histogram
+  daysInHistogram: 10 # number of days you want to display in histogram
   collectResponseTimes: true # collects avg response times from CRON locations
 
   allmonitorsOperational: 'All Systems Operational'
@@ -31,95 +31,118 @@ monitors:
   - id: hempishop
     name: hempishop.co.il
     url: 'https://www.hempishop.co.il'
+    linkable: false 
 
   - id: maxdrawz
     name: maxdrawz.com
     url: 'https://maxdrawz.com'
+    linkable: false 
 
   - id: thecryptotips
     name: thecrypto.tips
     url: 'https://www.thecrypto.tips'
+    linkable: false 
 
   - id: langos
     name: langos.co.il
     url: 'https://www.langos.co.il'
+    linkable: false 
 
   - id: time-machine
     name: time-machine.co.il
     url: 'https://www.time-machine.co.il'
+    linkable: false 
 
   - id: benkalsky
     name: benkalsky.co.il
     url: 'https://www.benkalsky.co.il'
+    linkable: false 
 
   - id: benkalskycom
     name: benkalsky.com
     url: 'https://benkalsky.com'
+    linkable: false 
 
   - id: shanita
     name: shanita.co.il
     url: 'https://shanita.co.il'
+    linkable: false 
 
   - id: cryptomagic
     name: cryptomagic.co.il
     url: 'https://www.cryptomagic.co.il'
+    linkable: false 
 
   - id: marinagurovich
     name: marinagurovich.com
     url: 'https://www.marinagurovich.com'
+    linkable: false 
     
   - id: neolith-shop
     name: neolith-shop.co.il
-    url: 'https://www.neolith-shop.co.il' 
+    url: 'https://www.neolith-shop.co.il'
+    linkable: false 
     
   - id: gilformats
     name: gilformats.com
     url: 'https://gilformats.com'
+    linkable: false 
     
   - id: gilp
     name: gilp.co.il
     url: 'https://gilp.co.il'
+    linkable: false 
 
   - id: biuvit
     name: biuvit.org
     url: 'https://www.biuvit.org'
+    linkable: false 
 
   - id: geometryc
     name: geometryc.com
     url: 'https://www.geometryc.com'
+    linkable: false 
 
   - id: iyengar-yoga
     name: iyengar-yoga.org.il
     url: 'https://iyengar-yoga.org.il'
+    linkable: false 
 
   - id: creio
     name: creio.co.il
     url: 'https://creio.co.il'
+    linkable: false 
 
   - id: bg-house
     name: bg-house.org
     url: 'https://www.bg-house.org'
+    linkable: false 
 
   - id: s-schwartz
     name: s-schwartz.co.il
     url: 'https://s-schwartz.co.il'
+    linkable: false 
 
   - id: s-schwartz-com
     name: s-schwartz.com
     url: 'https://s-schwartz.com'
+    linkable: false 
 
   - id: digitizer-link
     name: digitizer.link
     url: 'https://digitizer.link'
+    linkable: false 
     followRedirect: true 
 
   - id: digitizer-market
     name: digitizer.market
     url: 'https://www.digitizer.market'
+    linkable: false 
 
   - id: aladdinorientalrug
     name: aladdinorientalrug.com
     url: 'https://www.aladdinorientalrug.com'
+    linkable: false 
 
   - id: wame-app
     name: wame.app
@@ -128,10 +151,12 @@ monitors:
   - id: checkmate
     name: checkmate.ai
     url: 'https://checkmate.ai'
+    linkable: false 
 
   - id: sharons-boutique
     name: sharons-boutique.co.il
     url: 'https://sharons-boutique.co.il'
+    linkable: false 
 
   - id: five-luxe
     name: five.luxe
@@ -140,31 +165,39 @@ monitors:
   - id: cofi
     name: cofi.co.il
     url: 'https://www.cofi.co.il'
+    linkable: false 
 
   - id: cryptocafe
     name: cryptocafe.co.il
     url: 'https://www.cryptocafe.co.il'
+    linkable: false 
 
   - id: water-damage-nj
     name: water-damage-nj.com
     url: 'https://www.water-damage-nj.com'
+    linkable: false 
 
   - id: webify-studio
     name: webify.studio
     url: 'https://www.webify.studio'
+    linkable: false 
 
   - id: wpmultipack
     name: wpmultipack.com
     url: 'https://www.wpmultipack.com'
+    linkable: false 
 
   - id: dronez
     name: dronez.co.il
     url: 'https://www.dronez.co.il'
+    linkable: false 
 
   - id: njsteamer
     name: njsteamer.com
     url: 'https://www.njsteamer.com'
+    linkable: false 
 
   - id: coloredbuildings
     name: coloredbuildings.co.il
     url: 'https://coloredbuildings.co.il'
+    linkable: false 
