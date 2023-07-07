@@ -74,10 +74,16 @@ html, body {
 .p-4 {
   padding: 1rem 0;
 }
-.ml-4 {
-  font-size: 1.6rem;
-}
 .mt-4 {
   margin-bottom: 1rem;
   justify-content: center;
+}
+@media (max-width: 767px) {
+  .p-4 {
+    flex-direction: column;
+    row-gap: 10px;
+  }
+  .ml-4 {
+    font-size: 1.4rem;
+  }
 }
