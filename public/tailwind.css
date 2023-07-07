@@ -66,3 +66,8 @@
     @apply visible opacity-100 scale-100;
   }
 }
+
+/* Custom CSS */
+h1.ml-4.text-3xl {
+  font-size: 1.6rem;
+}
