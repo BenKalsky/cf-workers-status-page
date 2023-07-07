@@ -87,3 +87,6 @@ html, body {
     font-size: 1.4rem;
   }
 }
+.card {
+  padding: 1rem;
+}
