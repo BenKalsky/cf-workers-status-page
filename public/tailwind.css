@@ -71,3 +71,6 @@
 h1.ml-4.text-3xl {
   font-size: 1.6rem;
 }
+.flex.flex-row.justify-between.mt-4.text-sm {
+  margin-bottom: 1rem;
+}
