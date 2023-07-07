@@ -201,3 +201,18 @@ monitors:
     name: coloredbuildings.co.il
     url: 'https://coloredbuildings.co.il'
     linkable: false 
+
+  - id: lecht-projects
+    name: lecht-projects.co.il
+    url: 'https://www.lecht-projects.co.il'
+    linkable: false 
+
+  - id: pquick
+    name: pquick.co.il
+    url: 'https://pquick.co.il'
+    linkable: false 
+
+  - id: printmypic
+    name: printmypic.co.il
+    url: 'https://printmypic.co.il'
+    linkable: false 
