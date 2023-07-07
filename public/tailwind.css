@@ -73,4 +73,5 @@ h1.ml-4.text-3xl {
 }
 .flex.flex-row.justify-between.mt-4.text-sm {
   margin-bottom: 1rem;
+  justify-content: center;
 }
