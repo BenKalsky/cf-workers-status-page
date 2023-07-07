@@ -1,7 +1,7 @@
 settings:
   title: 'Digitizer Status Page'
   url: 'https://webs.digitizer.link' # used for Slack messages
-  logo: logo-192x192.png # image in ./public/ folder
+  logo: d-2.png # image in ./public/ folder
   daysInHistogram: 10 # number of days you want to display in histogram
   collectResponseTimes: true # collects avg response times from CRON locations
 
