@@ -56,12 +56,12 @@ monitors:
   - id: benkalsky
     name: benkalsky.co.il
     url: 'https://www.benkalsky.co.il'
-    linkable: false 
+    # linkable: false 
 
   - id: benkalskycom
     name: benkalsky.com
     url: 'https://benkalsky.com'
-    linkable: false 
+    # linkable: false 
 
   - id: shanita
     name: shanita.co.il
