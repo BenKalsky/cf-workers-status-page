@@ -118,6 +118,11 @@ monitors:
     url: 'https://www.bg-house.org'
     linkable: false 
 
+  - id: bg-house-game
+    name: game.bg-house.org
+    url: 'https://game.bg-house.org'
+    linkable: false 
+
   - id: s-schwartz
     name: s-schwartz.co.il
     url: 'https://s-schwartz.co.il'
