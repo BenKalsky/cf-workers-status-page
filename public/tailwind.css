@@ -74,7 +74,7 @@ html, body {
 body {
   font-family: Trebuchet MS, sans-serif;
 }
-.p-4 {
+.dig-1 {
   padding: 1rem 0;
 }
 .mt-4 {
@@ -82,18 +82,15 @@ body {
   justify-content: center;
 }
 @media (max-width: 767px) {
-  .p-4 {
+  .dig-1 {
     flex-direction: column;
     row-gap: 10px;
     align-items: start;
   }
-  .p-4 .flex-row:nth-child(2) {
+  .dig-1 .flex-row:nth-child(2) {
     width: 100%;
     justify-content: space-between;
     flex-direction: row-reverse;
-  }
-  .card .flex-row:nth-child(2) {
-    lex-direction: row;
   }
   .mr-4 {
     margin-right: 0;
