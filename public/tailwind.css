@@ -85,6 +85,15 @@ body {
   .p-4 {
     flex-direction: column;
     row-gap: 10px;
+    align-items: start;
+  }
+  .p-4 .flex-row:nth-child(2) {
+    width: 100%;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+  }
+  .mr-4 {
+    margin-right: 0;
   }
   .ml-4 {
     font-size: 1.4rem;
