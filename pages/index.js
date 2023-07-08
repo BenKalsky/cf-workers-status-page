@@ -95,7 +95,6 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
               Digitizer{' '}
             </a>
           </div>
-          <div></div>
         </div>
       </div>
     </div>
