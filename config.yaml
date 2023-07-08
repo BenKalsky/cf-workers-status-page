@@ -2,7 +2,7 @@ settings:
   title: 'Digitizer Web Monitoring'
   url: 'https://webs.digitizer.link' # used for Slack messages
   logo: d-2.png # image in ./public/ folder
-  daysInHistogram: 10 # number of days you want to display in histogram
+  daysInHistogram: 15 # number of days you want to display in histogram
   collectResponseTimes: true # collects avg response times from CRON locations
 
   allmonitorsOperational: 'All Systems Operational'
