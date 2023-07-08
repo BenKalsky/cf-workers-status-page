@@ -73,7 +73,7 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
             <img className="h-8 w-auto" src={config.settings.logo} />
             <h1 className="ml-4 text-3xl">{config.settings.title}</h1>
           </div>
-          <div className="flex flex-row items-center">
+          <div className="flex flex-row items-center dig-2">
             {typeof window !== 'undefined' && <ThemeSwitcher />}
             <MonitorFilter active={slash} callback={filterByTerm} />
           </div>
