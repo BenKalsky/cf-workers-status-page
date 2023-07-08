@@ -81,6 +81,10 @@ body {
   margin-bottom: 1rem;
   justify-content: center;
 }
+.dig-4 {
+  font-size: 1.4rem;
+  margin-left: 0.6rem;
+}
 @media (max-width: 767px) {
   .dig-1 {
     flex-direction: column;
@@ -94,8 +98,5 @@ body {
   }
   .mr-4 {
     margin-right: 0;
-  }
-  .dig-4 {
-    font-size: 1.4rem;
   }
 }
