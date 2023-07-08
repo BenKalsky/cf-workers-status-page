@@ -71,7 +71,7 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
         <div className="flex flex-row justify-between items-center p-4 dig-1">
           <div className="flex flex-row items-center">
             <img className="h-8 w-auto" src={config.settings.logo} />
-            <h1 className="ml-4 text-3xl">{config.settings.title}</h1>
+            <h1 className="ml-4 text-3xl dig-4">{config.settings.title}</h1>
           </div>
           <div className="flex flex-row items-center dig-2">
             {typeof window !== 'undefined' && <ThemeSwitcher />}
@@ -88,7 +88,7 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
             />
           )
         })}
-        <div className="flex flex-row justify-between mt-4 text-sm">
+        <div className="flex flex-row justify-between mt-4 text-sm dig-3">
           <div>
             Powered by{' '}
             <a href="https://www.digitizer.co.il/" target="_blank">
