@@ -87,7 +87,7 @@ body {
     row-gap: 10px;
     align-items: start;
   }
-  .dig-1 .flex-row:nth-child(2) {
+  .dig-1 .dig-2 {
     width: 100%;
     justify-content: space-between;
     flex-direction: row-reverse;
