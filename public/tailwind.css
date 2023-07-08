@@ -71,6 +71,9 @@
 html, body {
   overflow-x: hidden;
 }
+body {
+  font-family: Trebuchet MS, sans-serif;
+}
 .p-4 {
   padding: 1rem 0;
 }
