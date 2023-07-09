@@ -10,6 +10,14 @@ import { processCronTrigger } from './src/functions/cronTrigger'
  */
 const DEBUG = false
 
+import TagManager from 'react-gtm-module'
+
+const tagManagerArgs = {
+    gtmId: 'GTM-5XH6RV9'
+}
+
+TagManager.initialize(tagManagerArgs)
+
 addEventListener('fetch', (event) => {
   try {
     event.respondWith(
