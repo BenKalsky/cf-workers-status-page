@@ -66,20 +66,20 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
           })()
           `}
         </script>
+        <Script
+          async
+          strategy="afterInteractive"
+          src="https://www.googletagmanager.com/gtag/js?id=GTM-5XH6RV9"
+        ></Script>
+        <Script strategy="afterInteractive" id="gtm">
+          {`
+             window.dataLayer = window.dataLayer || [];
+             function gtag(){dataLayer.push(arguments);}
+             gtag('js', new Date());
+             gtag('config', YOUR ID,{ 'debug_mode':true });
+          `}
+        </Script>
       </Head>
-      <Script
-        async
-        strategy="afterInteractive"
-        src="https://www.googletagmanager.com/gtag/js?id=GTM-5XH6RV9"
-      ></Script>
-      <Script strategy="afterInteractive" id="gtm">
-        {`
-           window.dataLayer = window.dataLayer || [];
-           function gtag(){dataLayer.push(arguments);}
-           gtag('js', new Date());
-           gtag('config', YOUR ID,{ 'debug_mode':true });
-        `}
-      </Script>
       <div className="container mx-auto px-4">
         <div className="flex flex-row justify-between items-center p-4 dig-1">
           <div className="flex flex-row items-center">
