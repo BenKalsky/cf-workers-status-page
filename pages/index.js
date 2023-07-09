@@ -9,6 +9,14 @@ import MonitorFilter from '../src/components/monitorFilter'
 import MonitorStatusHeader from '../src/components/monitorStatusHeader'
 import ThemeSwitcher from '../src/components/themeSwitcher'
 
+import TagManager from 'react-gtm-module'
+
+const tagManagerArgs = {
+    gtmId: 'GTM-5XH6RV9'
+}
+
+TagManager.initialize(tagManagerArgs)
+
 const MonitorStore = new Store({
   monitors: config.monitors,
   visible: config.monitors,
