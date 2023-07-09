@@ -8,15 +8,7 @@ import { processCronTrigger } from './src/functions/cronTrigger'
  * 2. we will return an error message on exception in your Response rather
  *    than the default 404.html page.
  */
-const DEBUG = false
-
-import TagManager from 'react-gtm-module'
-
-const tagManagerArgs = {
-    gtmId: 'GTM-5XH6RV9'
-}
-
-TagManager.initialize(tagManagerArgs)
+const DEBUG = false 
 
 addEventListener('fetch', (event) => {
   try {
