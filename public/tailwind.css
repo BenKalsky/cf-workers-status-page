@@ -85,6 +85,12 @@ body {
   font-size: 1.4rem;
   margin-left: 0.6rem;
 }
+.histogram {
+  column-gap: 14px;
+}
+.bar {
+  width: 100%;
+}
 @media (max-width: 767px) {
   .dig-1 {
     flex-direction: column;
