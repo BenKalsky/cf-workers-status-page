@@ -149,6 +149,12 @@ monitors:
     url: 'https://www.digitizer.market'
     linkable: false 
 
+  - id: digitizer-email
+    name: digitizer.email
+    url: 'https://www.digitizer.email'
+    linkable: false 
+    followRedirect: true 
+
   - id: aladdinorientalrug
     name: aladdinorientalrug.com
     url: 'https://www.aladdinorientalrug.com'
