@@ -63,6 +63,11 @@ monitors:
     url: 'https://benkalsky.com'
     # linkable: false 
 
+  - id: benkalskynet
+    name: benkalsky.net
+    url: 'https://benkalsky.net'
+    linkable: false 
+
   - id: shanita
     name: shanita.co.il
     url: 'https://shanita.co.il'
