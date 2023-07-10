@@ -82,6 +82,11 @@ monitors:
     name: neolith-shop.co.il
     url: 'https://www.neolith-shop.co.il'
     linkable: false 
+
+  - id: pakalhagor
+    name: pakalhagor.co.il
+    url: 'https://pakalhagor.co.il'
+    linkable: false 
     
   - id: gilformats
     name: gilformats.com
