@@ -237,3 +237,8 @@ monitors:
     name: printmypic.co.il
     url: 'https://printmypic.co.il'
     linkable: false 
+
+  - id: melingo
+    name: melingo.com
+    url: 'https://dev.melingo.com'
+    linkable: false 
