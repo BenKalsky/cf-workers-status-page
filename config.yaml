@@ -240,5 +240,5 @@ monitors:
 
   - id: melingo
     name: melingo.com
-    url: 'https://dev.melingo.com'
+    url: 'https://melingo.com'
     linkable: false 
