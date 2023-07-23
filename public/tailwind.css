@@ -86,7 +86,7 @@ body {
   margin-left: 0.6rem;
 }
 .histogram {
-  column-gap: 14px;
+  column-gap: 6px;
 }
 .bar {
   width: 100%;
@@ -106,6 +106,6 @@ body {
     margin-right: 0;
   }
   .histogram {
-    column-gap: 3px;
+    column-gap: 2px;
   }
 }
