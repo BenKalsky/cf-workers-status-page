@@ -242,3 +242,8 @@ monitors:
     name: melingo.com
     url: 'https://melingo.com'
     linkable: false 
+
+  - id: mytour
+    name: mytour.co.il
+    url: 'https://mytour.co.il'
+    linkable: false 
