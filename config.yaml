@@ -248,7 +248,13 @@ monitors:
     url: 'https://mytour.co.il'
     linkable: false 
 
+  - id: romesroads
+    name: romesroads.com
+    url: 'https://www.romesroads.com'
+    linkable: false 
+
   - id: opeready
     name: OpeReady LMS
     url: 'https://opeready.digitizer.link'
     linkable: false 
+
