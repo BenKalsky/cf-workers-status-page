@@ -25,236 +25,231 @@ monitors:
     # linkable: false # allows the title to be a link, default=true
     
   - id: digitizer
-    name: digitizer.co.il
+    name: Digitizer.co.il
     url: 'https://www.digitizer.co.il'
 
   - id: hempishop
-    name: hempishop.co.il
+    name: Hempishop.co.il
     url: 'https://www.hempishop.co.il'
     linkable: false 
 
   - id: maxdrawz
-    name: maxdrawz.com
+    name: Maxdrawz.com
     url: 'https://maxdrawz.com'
     linkable: false 
 
   - id: thecryptotips
-    name: thecrypto.tips
+    name: Thecrypto.tips
     url: 'https://www.thecrypto.tips'
     linkable: false 
 
   - id: langos
-    name: langos.co.il
+    name: Langos.co.il
     url: 'https://www.langos.co.il'
     linkable: false 
 
   - id: time-machine
-    name: time-machine.co.il
+    name: Time-machine.co.il
     url: 'https://www.time-machine.co.il'
     linkable: false 
 
   - id: benkalsky
-    name: benkalsky.co.il
+    name: Benkalsky.co.il
     url: 'https://www.benkalsky.co.il'
     # linkable: false 
 
   - id: benkalskycom
-    name: benkalsky.com
+    name: Benkalsky.com
     url: 'https://benkalsky.com'
     # linkable: false 
 
   - id: benkalskynet
-    name: benkalsky.net
+    name: Benkalsky.net
     url: 'https://benkalsky.net'
     linkable: false 
 
   - id: shanita
-    name: shanita.co.il
+    name: Shanita.co.il
     url: 'https://shanita.co.il'
     linkable: false 
 
   - id: cryptomagic
-    name: cryptomagic.co.il
+    name: Cryptomagic.co.il
     url: 'https://www.cryptomagic.co.il'
     linkable: false 
 
   - id: marinagurovich
-    name: marinagurovich.com
+    name: Marinagurovich.com
     url: 'https://www.marinagurovich.com'
     linkable: false 
     
   - id: neolith-shop
-    name: neolith-shop.co.il
+    name: Neolith-shop.co.il
     url: 'https://www.neolith-shop.co.il'
     linkable: false 
 
   - id: pakalhagor
-    name: pakalhagor.co.il
+    name: Pakalhagor.co.il
     url: 'https://pakalhagor.co.il'
     linkable: false 
     
   - id: gilformats
-    name: gilformats.com
+    name: Gilformats.com
     url: 'https://gilformats.com'
     linkable: false 
     
   - id: gilp
-    name: gilp.co.il
+    name: Gilp.co.il
     url: 'https://gilp.co.il'
     linkable: false 
 
   - id: biuvit
-    name: biuvit.org
+    name: Biuvit.org
     url: 'https://www.biuvit.org'
     linkable: false 
 
   - id: geometryc
-    name: geometryc.com
+    name: Geometryc.com
     url: 'https://www.geometryc.com'
     linkable: false 
 
   - id: iyengar-yoga
-    name: iyengar-yoga.org.il
+    name: Iyengar-yoga.org.il
     url: 'https://iyengar-yoga.org.il'
     linkable: false 
 
   - id: creio
-    name: creio.co.il
+    name: Creio.co.il
     url: 'https://creio.co.il'
     linkable: false 
 
-  # - id: bg-house
-  #   name: bg-house.org
-  #   url: 'https://www.bg-house.org'
-  #   linkable: false 
-
-  # - id: bg-house-game
-  #   name: game.bg-house.org
-  #   url: 'https://game.bg-house.org'
-  #   linkable: false 
-
   - id: s-schwartz
-    name: s-schwartz.co.il
+    name: S-schwartz.co.il
     url: 'https://s-schwartz.co.il'
     linkable: false 
 
   - id: s-schwartz-com
-    name: s-schwartz.com
+    name: S-schwartz.com
     url: 'https://s-schwartz.com'
     linkable: false 
 
   - id: digitizer-link
-    name: digitizer.link
+    name: Digitizer.link
     url: 'https://digitizer.link'
     linkable: false 
     followRedirect: true 
 
   - id: digitizer-market
-    name: digitizer.market
+    name: Digitizer.market
     url: 'https://www.digitizer.market'
     linkable: false 
 
   - id: digitizer-email
-    name: digitizer.email
+    name: Digitizer.email
     url: 'https://www.digitizer.email'
     linkable: false 
     followRedirect: true 
 
   - id: aladdinorientalrug
-    name: aladdinorientalrug.com
+    name: Aladdinorientalrug.com
     url: 'https://www.aladdinorientalrug.com'
     linkable: false 
 
   - id: wame-app
-    name: wame.app
+    name: Wame.app
     url: 'https://www.wame.app'
 
   - id: checkmate
-    name: checkmate.ai
+    name: Checkmate.ai
     url: 'https://checkmate.ai'
     linkable: false 
 
   - id: sharons-boutique
-    name: sharons-boutique.co.il
+    name: Sharons-boutique.co.il
     url: 'https://sharons-boutique.co.il'
     linkable: false 
 
   - id: five-luxe
-    name: five.luxe
+    name: Five.luxe
     url: 'https://www.five.luxe'
 
   - id: cofi
-    name: cofi.co.il
+    name: Cofi.co.il
     url: 'https://www.cofi.co.il'
     linkable: false 
 
   - id: cryptocafe
-    name: cryptocafe.co.il
+    name: Cryptocafe.co.il
     url: 'https://www.cryptocafe.co.il'
     linkable: false 
 
   - id: water-damage-nj
-    name: water-damage-nj.com
+    name: Water-damage-nj.com
     url: 'https://www.water-damage-nj.com'
     linkable: false 
 
   - id: webify-studio
-    name: webify.studio
+    name: Webify.studio
     url: 'https://www.webify.studio'
     linkable: false 
 
   - id: wpmultipack
-    name: wpmultipack.com
+    name: Wpmultipack.com
     url: 'https://www.wpmultipack.com'
     linkable: false 
 
   - id: dronez
-    name: dronez.co.il
+    name: Dronez.co.il
     url: 'https://www.dronez.co.il'
     linkable: false 
 
   - id: njsteamer
-    name: njsteamer.com
+    name: Njsteamer.com
     url: 'https://www.njsteamer.com'
     linkable: false 
 
   - id: coloredbuildings
-    name: coloredbuildings.co.il
+    name: Coloredbuildings.co.il
     url: 'https://coloredbuildings.co.il'
     linkable: false 
 
   - id: lecht-projects
-    name: lecht-projects.co.il
+    name: Lecht-projects.co.il
     url: 'https://www.lecht-projects.co.il'
     linkable: false 
 
   - id: pquick
-    name: pquick.co.il
+    name: Pquick.co.il
     url: 'https://pquick.co.il'
     linkable: false 
 
   - id: printmypic
-    name: printmypic.co.il
+    name: Printmypic.co.il
     url: 'https://printmypic.co.il'
     linkable: false 
 
   - id: melingo
-    name: melingo.com
+    name: Melingo.com
     url: 'https://melingo.com'
     linkable: false 
 
   - id: mytour
-    name: mytour.co.il
+    name: Mytour.co.il
     url: 'https://mytour.co.il'
     linkable: false 
 
   - id: romesroads
-    name: romesroads.com
+    name: Romesroads.com
     url: 'https://www.romesroads.com'
+    linkable: false 
+
+  - id: goodbyepain
+    name: Goodbyepain.co.il
+    url: 'https://goodbyepain.co.il'
     linkable: false 
 
   - id: opeready
     name: OpeReady LMS
     url: 'https://opeready.digitizer.link'
     linkable: false 
-
+    
