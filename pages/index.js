@@ -46,7 +46,7 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
       <Head>
         <title>{config.settings.title}</title>
         <link rel="stylesheet" href="./style.css" />
-        <meta name="viewport" content="initial-scale=1.0, width=device-width">
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <script>
           {`
           function setTheme(theme) {
