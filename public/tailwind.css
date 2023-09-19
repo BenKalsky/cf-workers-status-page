@@ -68,10 +68,10 @@
 }
 
 /* Custom CSS */
-html, body {
+/* html, body {
   overflow-x: hidden;
   height: 100%;
-}
+} */
 body {
   font-family: Trebuchet MS, sans-serif;
 }
