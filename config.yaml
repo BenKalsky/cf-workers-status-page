@@ -248,8 +248,8 @@ monitors:
     url: 'https://goodbyepain.co.il'
     linkable: false 
 
-  - id: opeready
-    name: OpeReady LMS
-    url: 'https://opeready.digitizer.link'
-    linkable: false 
+  # - id: opeready
+  #   name: OpeReady LMS
+  #   url: 'https://opeready.digitizer.link'
+  #   linkable: false 
     
