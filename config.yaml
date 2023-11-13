@@ -164,10 +164,10 @@ monitors:
     url: 'https://checkmate.ai'
     linkable: false 
 
-  - id: sharons-boutique
-    name: Sharons-boutique.co.il
-    url: 'https://sharons-boutique.co.il'
-    linkable: false 
+  # - id: sharons-boutique
+  #   name: Sharons-boutique.co.il
+  #   url: 'https://sharons-boutique.co.il'
+  #   linkable: false 
 
   - id: five-luxe
     name: Five.luxe
@@ -228,10 +228,10 @@ monitors:
     url: 'https://printmypic.co.il'
     linkable: false 
 
-  - id: melingo
-    name: Melingo.com
-    url: 'https://melingo.com'
-    linkable: false 
+  # - id: melingo
+  #   name: Melingo.com
+  #   url: 'https://melingo.com'
+  #   linkable: false 
 
   - id: mytour
     name: Mytour.co.il
