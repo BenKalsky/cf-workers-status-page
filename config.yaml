@@ -118,10 +118,10 @@ monitors:
     url: 'https://iyengar-yoga.org.il'
     linkable: false 
 
-  - id: creio
-    name: Creio.co.il
-    url: 'https://creio.co.il'
-    linkable: false 
+  # - id: creio
+  #   name: Creio.co.il
+  #   url: 'https://creio.co.il'
+  #   linkable: false 
 
   - id: s-schwartz
     name: S-schwartz.co.il
